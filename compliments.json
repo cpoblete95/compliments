@@ -2,8 +2,34 @@
 	"anytime": [
 		"Hey there sexy!",
 		"Hey Beautiful!",
-		"How ya doin chimboi?"
-
+		"How ya doin chimboi?",
+		"CAN I GET ERYEE??",
+		"Dont forget to tell you parents you love them",
+		"I'm lucky to be your mirror!",
+		"I need some time to reflect...",
+		"I see a lot of myself in you",
+		"Damn. You're looking good!",
+		"Shawty... you a 10",
+		"What are you grateful for today?",
+		"Your smile is contagious",
+		"You look great today",
+		"You're a smart cookie",
+		"I bet you make babies smile",
+		"I like your style",
+		"You have the best laugh",
+		"I appreciate you",
+		"You are the most perfect you there is",
+		"Your perspective is refreshing",
+		"You're an awesome friend",
+		"You light up the room",
+		"You deserve a hug right now",
+		"If you're reading this, Chris loves you!",
+		"You should be proud of yourself",
+		"You're more helpful than you realize",
+		"You have a great sense of humor",
+		"You've got all the right moves!",
+		"You're all that and a super-size bag of chips",
+		"You're even more beautiful on the inside than you are on the outside"
 	],
 	"....-02-01": [
 		"Happy Anniversary, I love you\n -Chris"
@@ -11,17 +37,51 @@
 	"....-03-26": [
 		"Happy Birthday Michelle!"
 	],
+	"morning": [
+		"Good morning, sunshine!",
+		"Who needs coffee when you have your smile?",
+		"Go get 'em, Tiger!",
+		"LETS GET AFTER IT TODAY!!!!",
+		"Well good morning gorgeous :)",
+		"Rise and shine!"
+	],
 	"day_sunny": [
-		"Today is a sunny day",
-		"It's a beautiful day"
+		"Beautiful Day to catch some rays!",
+		"It's a beautiful day",
+		"Great day to be great",
+		"The sun is shining today!",
+		"It's such a beautiful day",
+		"It's gorgeous outside, go play!"
+	],
+	"afternoon": [
+		"Hitting your stride!",
+		"You are making a difference!",
+		"You're more fun than bubble wrap!",
+		"Don't forget to hydrate!"
+	],
+	"evening": [
+		"You made someone smile today, I know it",
+		"You are making a difference",
+		"The day was better for your efforts",
+		"See you tomorrow!",
+		"Sleep tight",
+		"Goodnight my love",
+		"Sweet dreams!"
 	],
 	"day_cloudy": [],
 	"cloudy": [],
 	"cloudy_windy": [],
 	"showers": [],
-	"rain": [],
+	"rain": [
+		"Take your umbrella with you",
+		"It's wet out there, drive safe!",
+		"It's rainy outside, but you brighten my day"
+	],
 	"thunderstorm": [],
-	"snow": [],
+	"snow": [
+		"Snow ball fight!",
+		"Be Careful Driving in the snow!"
+	],
 	"fog": [],
 	"night_clear": [
 		"Beautiful night to look at the stars!"
@@ -29,7 +89,9 @@
 	"night_cloudy": [],
 	"night_showers": [],
 	"night_rain": [],
-	"night_thunderstorm": [],
+	"night_thunderstorm": [
+		"It's a stormy night, don't be scared"
+	],
 	"night_snow": [],
 	"night_alt_cloudy_windy": []
 }
